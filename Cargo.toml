@@ -1,0 +1,8 @@
+[package]
+name = "dotty"
+description = "Library for generating DOT graph files"
+version = "0.1.0"
+authors = ["Corey Farwell <coreyf@rwell.org>"]
+license = "Apache-2.0"
+repository = "https://github.com/frewsxcv/rust-dotty"
+keywords = ["dot", "graph"]
